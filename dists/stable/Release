@@ -1,0 +1,28 @@
+Origin: wispr-flow-linux
+Label: Wispr Flow for Linux (unofficial)
+Codename: stable
+Date: Sun, 07 Jun 2026 11:05:18 UTC
+Architectures: amd64 arm64
+Components: main
+Description: Unofficial Wispr Flow Linux packages
+MD5Sum:
+ 888445a59e3acf991aa03ffd102444c1 728 main/binary-amd64/Packages
+ 004a36b3411caea6149367be20a8a186 487 main/binary-amd64/Packages.gz
+ 33bebdc04e8287e7ba714e510a1d678a 152 main/binary-amd64/Release
+ 22eaa4eaab3d37793ca9fa69f47a19c6 728 main/binary-arm64/Packages
+ 42880d5e31943b03bc53d5df93954e31 488 main/binary-arm64/Packages.gz
+ 412ca31b3e1789e759c705f9a608cb66 152 main/binary-arm64/Release
+SHA1:
+ 8d3f480d0403e74ab1a7bd20376ebf8a1e4ba73e 728 main/binary-amd64/Packages
+ 49cb778dc7943a462103898ffba9be6b7ab03c03 487 main/binary-amd64/Packages.gz
+ 6d66a3290d86b75bddcbb284acbe9ee9f5136618 152 main/binary-amd64/Release
+ ed09d0a229a718968ed71cd07118a23847708107 728 main/binary-arm64/Packages
+ e2937eb99187c805cc6c8e10043b24c78ac85b19 488 main/binary-arm64/Packages.gz
+ ab77f53438167a35e7fea1bc08594cc97b7d84ab 152 main/binary-arm64/Release
+SHA256:
+ 96b1a34ecd7021ea382f346ffd662a67a9c51ab0034829e655b4ff6046a5e3dc 728 main/binary-amd64/Packages
+ 43ef74d946d9506a3c534ce3f0b31aafd0ed2f6152f628b43e4ba516d4c21bdb 487 main/binary-amd64/Packages.gz
+ 1b254ed55b1f89653cec5acbd63fc81146c59a0cc85675bcf6d44fbf01e7f787 152 main/binary-amd64/Release
+ ff3b42519eaaa6c0c9f2810ab677f94acb0766286e350e64b6b073c1f53ca0b0 728 main/binary-arm64/Packages
+ 75c497409072b9bb511702cb31ed078925e5e45d0f1665f9fcee531d3688a63b 488 main/binary-arm64/Packages.gz
+ 30dbacec30a5fffb69e559b4cfd8b24ec400d84ba14f8fa50e63bb5c4d262d06 152 main/binary-arm64/Release
