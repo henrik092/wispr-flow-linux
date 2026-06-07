@@ -1,0 +1,7 @@
+Origin: wispr-flow-linux
+Label: Wispr Flow for Linux (unofficial)
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: Unofficial Wispr Flow Linux packages
+SignWith: 087A3E441F1EBABFD1EBC2A21EBFB09D261977F9
