@@ -4,44 +4,44 @@ Hash: SHA512
 Origin: wispr-flow-linux
 Label: Wispr Flow for Linux (unofficial)
 Codename: stable
-Date: Fri, 19 Jun 2026 06:30:54 UTC
+Date: Fri, 03 Jul 2026 04:52:29 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Unofficial Wispr Flow Linux packages
 MD5Sum:
- b6b27bf0eed732c4e0373d6609b3450c 728 main/binary-amd64/Packages
- 5eb055abdb80ea8621ff6e568833b90f 488 main/binary-amd64/Packages.gz
+ d8cb5ecc60202f75a5c6c231422737fc 730 main/binary-amd64/Packages
+ 76c6b71018f17c37d4f118d245389e07 488 main/binary-amd64/Packages.gz
  33bebdc04e8287e7ba714e510a1d678a 152 main/binary-amd64/Release
- 985d3a9e9ecb85e366f5905b2802a076 728 main/binary-arm64/Packages
- e3ba92334a0c369ff90b41f99ad63eb6 489 main/binary-arm64/Packages.gz
+ f45d266d43472741f7a0cb915a262e9f 730 main/binary-arm64/Packages
+ f5eace1bfb582e9146d0da0f21578b55 489 main/binary-arm64/Packages.gz
  412ca31b3e1789e759c705f9a608cb66 152 main/binary-arm64/Release
 SHA1:
- d4f213bf541a13587dc7efb78264d0cb9fab04b9 728 main/binary-amd64/Packages
- 95e25021b8edcd885ddbdcfca2bb832f08b8a0d4 488 main/binary-amd64/Packages.gz
+ c0f7758a76d3d7d3591bc0515938cda61605fa65 730 main/binary-amd64/Packages
+ 6de3abbc9b8df2c092c9c705d6d719a89ee436f4 488 main/binary-amd64/Packages.gz
  6d66a3290d86b75bddcbb284acbe9ee9f5136618 152 main/binary-amd64/Release
- 2e8c44939470986cebe57b6d9108c9134d5889f9 728 main/binary-arm64/Packages
- 235877e2b67c1feb143601bbc467dfad08d3700f 489 main/binary-arm64/Packages.gz
+ b2d337f6163a5f51765b2c0afe07befafa3e9fc7 730 main/binary-arm64/Packages
+ f32ef753c1452ffb1a2a688769e22a8ed68ef316 489 main/binary-arm64/Packages.gz
  ab77f53438167a35e7fea1bc08594cc97b7d84ab 152 main/binary-arm64/Release
 SHA256:
- 33867594b611baa7a1aa7bc7d6b686ca62eaf9007a0ad61dbb2b9f7b125ca7c7 728 main/binary-amd64/Packages
- 482178a390b7128a431ebacc8a28a8f15056646fadf2d4240d56aa5de5e76d3b 488 main/binary-amd64/Packages.gz
+ ae22e2453f9bf868c0c4f577612f84c39d54f8a5b46f62264da92aba535577ff 730 main/binary-amd64/Packages
+ f934e0aadf3841736daab1561b4018f9b52b3175cfba08a4826d96b285366299 488 main/binary-amd64/Packages.gz
  1b254ed55b1f89653cec5acbd63fc81146c59a0cc85675bcf6d44fbf01e7f787 152 main/binary-amd64/Release
- b0f634625fde0daf0e436aa13f78b898e6f98bf5f1e9b9e66eeb020e40af68fc 728 main/binary-arm64/Packages
- d5a580d4a8f4bf6c52869f028319605b0a73bd58db852f403413a01c1462d223 489 main/binary-arm64/Packages.gz
+ ca787f77e65f8b3ffeb1d5ab8ca723e4301e4611bf3caa0b0e4c67c7384b9e0d 730 main/binary-arm64/Packages
+ 281a3596b18d9608b6c1a5ce481c7af14acc13a7f8b33f090502c2d0da321ec3 489 main/binary-arm64/Packages.gz
  30dbacec30a5fffb69e559b4cfd8b24ec400d84ba14f8fa50e63bb5c4d262d06 152 main/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIyBAEBCgAdFiEECHo+RB8eur/R68KiHr+wnSYZd/kFAmo04h4ACgkQHr+wnSYZ
-d/kJzw/4h3gIHREZoMZgw1pEBTINBCRQTUxOTJqZpOkbO6O1CnpNTIgvhYKHNhPD
-eeszO7WUqlyH7V1IhdrP9wEG52V+3trRYrbGXEekXmvJq6p7z1ONSu67g9wgJW2K
-Re8whpZxQQzDE4UZ1ncQrnoMdioNGXSX+MF2j/9OTa5iBMvt8KQv0H37iUZi3+rO
-/eWdAKevHE6n40owZJnXqKP+xIOdytbu6ZyrLJh4oZFQ2L4Knirej8vzhZe0j9RR
-PjU6ZHcMn9GaR5zhDD1wvJ2AXd5tnON2KrUIu58oYoqh/V6tmEq2V5wSIUFW9YO7
-x3BpBLrIHN3rP7/XvP9NptIf/D9CQVSHyACaonjsLv1Us/G6Sic4n1Ev8pXjAInx
-5vuD9+m+4ireiVq8oc73pmLm+pxqiEW1jLuf6tRKwua+S50SkeP1P9DmRay/7lt4
-Kg4n9yyxXVj9iEOg0/tNXBGH6Q1LaOnW0t9XAszVWKQXQ8ySb7tEWWH60DDT6TJb
-7e3cdL+7EZpYSiSNVSCttlSx1ynL47batezWBuGsmJ6Z5YrNz6P03UmtM8OcHtDZ
-H1zpUpzbtJQI79krycqxUYyaOWXngewlliZe4RISf80k84NBm45OGUwq54MP4+p/
-JeJnhbDLDm4uANDHC7ReDgjhyXFceKNsZFB0QDsj3ir32TSHgA==
-=cnb6
+iQIzBAEBCgAdFiEECHo+RB8eur/R68KiHr+wnSYZd/kFAmpHQA0ACgkQHr+wnSYZ
+d/k9Xg//R46zwwHgegTWrhy5Jn7+02CQ/Yi++Ybk8k14IoOb34nygo3KdYsrvxK1
+s9BQCQPxBrVBahSgb0Vg6GSeyD7fZtHErTuSfzigsM27VHcS4PM+oARXvhwUNCVD
+z7HFip+ZA1x4nBs/LrIfICx0bCXlqZTMubOL7PUG8ktu5Pj15OyKZAI8O9aAdGGm
+W12YFvKtvDxlBbmclhiXZpwppu+xbneGKkianJ5EamHrVduQNvKY3p2j0XCd3DXL
+36jbXtzM9RCyjXvTx2nJasgWHbIelB22Zdjm6jXDW7rDUF7TG7AiJqo4Lls2JxW1
+s/e/arnVHOW0lehcCk71PhqG+FCxQgVKjcZPSlXP64ojoVVRvUQlU9xgaa2iPuFk
+MyGH8xzQ4NuddbUINox7J686kt7nW/g0mSS931ax9RJLbe8QMkYlhWs7CblrP3NO
+1NPnK4QkbZbPuoRooJnaoMgIohFI8MF8D5/6SR7ZVucwHY5DiTP9NferSCG6Li0h
+r5o5zkM0mFEWVK1EGteaet3dl2c+3QzqLXlt+4W2BzNGmOvVm24kSgJiXgoy+PVA
+NK6qM6mLblw/Q5tLNcdfPG+7qoDzZF1FJS1yOcU+EdhhZH6Ip3Kaj+R9N3Y1ktID
+v8Bl/ZT7Duy9xHEwf9s+BFdLjIQym2xRLdZSZ5A3CQkr7yyrhSY=
+=kV/9
 -----END PGP SIGNATURE-----
