@@ -57,8 +57,12 @@ jobs:
           sudo apt-get install -y libfuse2 zsync
           # appimagetool is not a distro package; fetch the arch-matched build so
           # the appimage maker (scripts/packaging/appimage.sh) finds it on PATH.
+          # Pinned to a numbered release and checked by sha256 so a change in
+          # the rolling `continuous` build can't alter a tag build unnoticed.
           curl -fSL -o /tmp/appimagetool \
-            "https://github.com/AppImage/appimagetool/releases/download/continuous/appimagetool-x86_64.AppImage"
+            "https://github.com/AppImage/appimagetool/releases/download/1.9.1/appimagetool-x86_64.AppImage"
+          echo "ed4ce84f0d9caff66f50bcca6ff6f35aae54ce8135408b3fa33abfc3cb384eb0  /tmp/appimagetool" \
+            | sha256sum -c -
           sudo install -m 0755 /tmp/appimagetool /usr/local/bin/appimagetool
 
       - name: Make scripts executable
